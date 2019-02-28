@@ -1,6 +1,6 @@
-## datasets-processing
+## dataset-collections
 
-Processing datasets.
+Collecting and processing datasets.
 
 ### Usage
 
